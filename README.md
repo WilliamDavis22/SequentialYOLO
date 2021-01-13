@@ -38,7 +38,7 @@ and follow the installation instructions. Note that this repo has only been test
 Clone this repo with:
 ```bash
 git clone https://github.com/WilliamDavis22/SequentialYOLO
-cd Sequential_YOLO/
+cd SequentialYOLO/
 ```
 Create Virtual **(Linux/Mac)** Environment:
 ```bash
