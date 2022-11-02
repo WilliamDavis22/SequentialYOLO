@@ -1,6 +1,6 @@
-# Training a YOLOv3 With Sequential Frames: Building a Custom Object Detector from POV videos [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+# Training a YOLOv5 With Sequential Frames: Building a Custom Object Detector from POV videos [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repo let's you train a custom image detector on the sequential frames of a video simulating the visual stimuli presented to humans using the state-of-the-art [YOLOv3](https://pjreddie.com/darknet/yolo/) computer vision algorithm. This repo works with TensorFlow 2.3 and Keras 2.4
+This repo let's you train a custom image detector on the sequential frames of a video simulating the visual stimuli presented to humans using the state-of-the-art [YOLOv5](https://pjreddie.com/darknet/yolo/) computer vision algorithm. This repo works with TensorFlow 2.3 and Keras 2.4
 
 ### Pipeline Overview
 
@@ -18,7 +18,7 @@ To build and test your YOLO object detection algorithm follow the below steps:
 
 ## Repo structure
 + [`1_Image_Annotation`](/Image_Annotation/): Formating the annotating images
-+ [`2_Training`](/Training/): Scripts and instructions on training your YOLOv3 model
++ [`2_Training`](/Training/): Scripts and instructions on training your YOLOv5 model
 + [`3_Inference`](/Inference/): Scripts and instructions on testing your trained YOLO model on new images and videos
 + [`Data`](/Data/): Input Data, Output Data, Model Weights and Results
 + [`Utils`](/Utils/): Utility scripts used by main scripts
